@@ -1,0 +1,6 @@
+{
+  "name": "CS-901: MIT Software Synthesis Engine",
+  "description": "Engine de Síntese de Software e Curso de Nível MIT (CS-901): MCP, GraphRAG, Fine-Tuning, Clean Code AST, BPMN SAGA, DDD & Capstone com Validação de Invariantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
